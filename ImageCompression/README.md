@@ -1,5 +1,7 @@
 ## Image compression using K-means algorithm
 
+K-Means is one of the algorithms used for unsupervised learning in ML.
+
 There are two main steps done in the K-means algorithm
 - Assignment step: each example in the data set is assigned to the nearest centroid
 - Move step: the location of each centroid is computed as an average of the examples assigned to this centroid
