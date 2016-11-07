@@ -8,7 +8,7 @@ After training we have params:
 
 By utilizing Theta and X params we recommend a set of movies a particular user may like.
 
-This exercise was done as one of the programming assignments in machine learning course at coursera [2].  
+I have implemented this exercise as one of the programming assignments in machine learning course at coursera [2].  
 
 
 [1] http://grouplens.org/datasets/movielens/  
